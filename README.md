@@ -1,5 +1,8 @@
 # codeman_hw_1
 Homework: Getting Started with Express
+
+http port : 3001
+
 Goal
 Go to this link https://docs.google.com/document/d/1xJZ4D9vvFs7dex_uOY1j1TQ-P8ESTdXWSY5fE9lC8ic/edit?usp=sharing
 Instructions
